@@ -1,8 +1,8 @@
 # PHYS220 CW 5
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Riley Kendall and Nikki Schwartz**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-riley-and-nikki.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-riley-and-nikki)
 
 ## Specification
 
@@ -26,4 +26,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley Kendall and Nikki Schwartz**
