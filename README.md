@@ -13,7 +13,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+The examples were extremely helpful.  It was more difficult determining how to do certain tasks, such as increase the bin size.
 
 **CHANGEME**
 
